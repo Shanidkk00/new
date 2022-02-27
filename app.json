@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/Aadhi000/Ajax",
+    "website": "https://github.com/ATHIF-EFX/TigerShroff",
+    "repository": "https://github.com/ATHIF-EFX/TigerShroff",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
