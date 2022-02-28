@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/ATHIF-EFX/TigerShroff",
-    "repository": "https://github.com/ATHIF-EFX/TigerShroff",
+    "repository": "https://github.com/Shanidkk00/TigerShroff",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
